@@ -1,4 +1,13 @@
 # SD-WAN
+SD-WAN là một kiến trúc mạng sử dụng phần mềm để quản lý và điều hành mạng diện rộng (WAN). Thay vì cấu hình thủ công từng thiết bị phần cứng, SD-WAN tách biệt phần Control Plane (Điều khiển) ra khỏi Data Plane (Dữ liệu).
+
+Công cụ sử dụng (Tech Stack)
+
+Simulators: GNS3.
+
+OS/Platform: pfSense.
+
+Protocols: IPsec, OSPF, CARP.
 
 Sơ đồ đầu tiên của nhóm phát triển
 
