@@ -3,7 +3,7 @@ SD-WAN là một kiến trúc mạng sử dụng phần mềm để quản lý v
 
 Công cụ sử dụng (Tech Stack)
 
-Simulators: GNS3.
+Simulators: GNS3, VMware.
 
 OS/Platform: pfSense.
 
