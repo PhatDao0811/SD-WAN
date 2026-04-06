@@ -19,5 +19,5 @@ Ý tưởng cải tiến: Từ SD-WAN cơ bản thành High Availability SD
 
 <img width="683" height="640" alt="image" src="https://github.com/user-attachments/assets/3adecda5-a675-44ef-abb1-1ff5e540efda" />
 
-Thách thức: Cấu hình sẽ vất vả hơn vì phải đảm bảo định tuyến đúng tránh trường hợp Routing Loop, giải quyết vấn đề đồng bộ hóa trạng thái(High Availability - HA)
+Thách thức: Cấu hình sẽ vất vả hơn vì phải đảm bảo định tuyến đúng tránh trường hợp Routing Loop, giải quyết vấn đề đồng bộ hóa trạng thái(High Availability - HA), thêm cơ chế CARP hỗ trợ high available
 
